@@ -22,6 +22,4 @@ Follow these steps carefully to get everything working:
 
 ⚠️ Important Notes
 
-    Antivirus: Some antivirus software might flag the injector as a "false positive" because of how it interacts with game files. You may need to add it to your exclusions.
-
     Updates: Make sure you are using the latest version of the game from the Store for the best compatibility.
