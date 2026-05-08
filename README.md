@@ -6,7 +6,11 @@
 🚀 MCBE Crack Injector
 
 A simple and efficient injector for playing Minecraft Bedrock Edition (MCBE) for free. Works with the latest versions from the Microsoft Store.
+
+
 📖 How to Use
+
+
 1 Open AppData Folder:
 Press Win + R on your keyboard, type %appdata% in the window that appears, and press OK.
 
