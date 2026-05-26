@@ -29,4 +29,4 @@ You are all set! Open Minecraft and enjoy the full experience.
 ⚠️ Important Notes
 
     Updates: Make sure you are using the latest version of the game from the Store for the best compatibility.
-Any questions - discorf: @pan310   
+Any questions - discord: @pan310   
